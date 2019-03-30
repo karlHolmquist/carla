@@ -1,4 +1,4 @@
-## Latest Changes
+## CARLA 0.9.5
 
   * Basic agent integrated with global router
   * Fixed local planner to avoid premature route pruning at path overlaps
